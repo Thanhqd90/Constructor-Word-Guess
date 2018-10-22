@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Week 11 HW - Javascript Constructor Word Guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanhqd90/Constructor-Word-Guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanhqd90/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/Thanhqd90/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
