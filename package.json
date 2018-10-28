@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Thanhqd90/Constructor-Word-Guess#readme",
   "dependencies": {
-    "inquirer": "^6.2.0"
+    "colors": "^1.3.2",
+    "inquirer": "^6.2.0",
+    "is-letter": "^1.1.1"
   }
 }
