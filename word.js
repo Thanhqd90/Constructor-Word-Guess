@@ -15,7 +15,7 @@ function Word(chosenWord) {
                 strWord += this.arrayOfLetterObjects[i].showLetter();
             }
         
-        // Prints the dashes or updates with letters
+        // Prints underscores or updates with letters
         console.log(strWord);
     };
 

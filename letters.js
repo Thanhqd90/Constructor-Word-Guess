@@ -8,7 +8,7 @@ function Letter(letterInWord) {
         if (this.hasBeenGuessed === true) {
             return this.letter;
         } else {
-           return " _";    
+           return "_ ";    
         }
     };
 
